@@ -1,14 +1,14 @@
 # VarietyMattersDinnerTime
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Cozarkians mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2326581524
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 A collection of optional features to improve the eating system. This is a stand alone mod, https://steamcommunity.com/sharedfiles/filedetails/?id=2207657844]Variety Matters is compatible but is **[u]NOT[/u]** required.
 
@@ -84,7 +84,7 @@ A: That was a concern, so I tweaked the packaged survival meal recipes to make t
 Q: Does this feature work with mod-added foods?
 A: Mostly. It will find new fruits/vegetab
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

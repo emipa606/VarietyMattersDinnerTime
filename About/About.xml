@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Variety Matters Dinner Time (Continued)</name>
   <packageId>Mlie.VarietyMattersDinnerTime</packageId>
@@ -19,11 +19,11 @@
   <loadAfter>
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Cozarkians mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2326581524
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/CN9Rs5X.png[/img]
 
 [table]
     [tr]
@@ -32,7 +32,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2326581524
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 A collection of optional features to improve the eating system. This is a stand alone mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2207657844]Variety Matters[/url] is compatible but is [b][u]NOT[/u][/b] required.
 
 [h1]Features[/h1]
@@ -105,7 +105,7 @@ A: That was a concern, so I tweaked the packaged survival meal recipes to make t
 Q: Does this feature work with mod-added foods?
 A: Mostly. It will find new fruits/vegetab
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -116,4 +116,3 @@ A: Mostly. It will find new fruits/vegetab
 [/list]
 </description>
 </ModMetaData>
-
